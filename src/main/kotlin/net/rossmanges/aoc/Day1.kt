@@ -3,7 +3,7 @@ package net.rossmanges.aoc
 /**
  * https://adventofcode.com/2021/day/1
  */
-fun main(args: Array<String>) {
+fun main() {
     println("part 1: " +
         getNumOfMeasurementsLargerThanPrevious(
             readInput("day1-input").map { it.toInt() }
