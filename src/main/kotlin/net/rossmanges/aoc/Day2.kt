@@ -1,7 +1,7 @@
 package net.rossmanges.aoc
 
 /**
- * https://adventofcode.com/2021/day/2
+ * [Advent of Code 2021: Day 2](https://adventofcode.com/2021/day/2)
  */
 fun main() {
     println(
